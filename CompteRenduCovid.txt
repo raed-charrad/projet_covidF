@@ -1,0 +1,9 @@
+Covid test management system :
+Les taches realiés : 
+	espace client : demande d'un test  => Réalisé par Charrad Raed
+	espace admin : * Update profile (change password and admin name) => Réalisé par Kamkoum Sabrine 
+		       * Login admin => Réalisé par Kamkoum Sabrine 
+		       * CRUD technicien de laboratoire => Réalisé par Charrad Raed
+		       * Affecter un patient à un technicien => Réalisé par Kamkoum Sabrine
+	POO : => Réalisé par Kamkoum Sabrine et Charrad Raed
+		
